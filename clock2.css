@@ -1,0 +1,11 @@
+#clock {
+    font-size: 175px;
+    font-style: oblique;
+    font-variant-emoji:emoji;
+    width: 1000px;
+    margin: 200px;
+    background: #9252db;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
